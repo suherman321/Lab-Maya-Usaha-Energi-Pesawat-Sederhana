@@ -1,0 +1,6 @@
+{
+  "name": "Lab Maya IPA: Usaha, Energi, dan Pesawat Sederhana",
+  "description": "Simulasi interaktif fisika SMP Kelas 8 untuk mempelajari konsep Usaha, Daya, Energi Mekanik, dan Pesawat Sederhana secara visual dan menyenangkan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
